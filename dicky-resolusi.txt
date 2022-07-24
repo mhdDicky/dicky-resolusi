@@ -6,3 +6,4 @@ Dicky Resolusi
 4. Mempelajari Laravel
 5. Mempelajari API
 6. Mempelajari sesuai roadmap
+7. Membuat projek di kantor
